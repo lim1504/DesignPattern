@@ -7,7 +7,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 /**
- * 실제 윈도우 버튼 구현
+ * 실제 윈도우 버튼 구현 및 확장
  */
 public class WindowButton implements Button {
     JPanel panel = new JPanel();
